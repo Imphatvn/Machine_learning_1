@@ -12,6 +12,11 @@ Classify individuals into seven weight and obesity categories using
 features such as age, height, weight, physical activity, eating habits,
 and other lifestyle variables.
 
+## Data
+Place the training and test CSV files in the `data/` folder:
+- data/obesity_train.csv
+- data/obesity_test.csv
+
 ## Approach
 
 - Exploratory data analysis and data-quality checks
